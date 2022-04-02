@@ -1,0 +1,41 @@
+https://pypi.org/
+
+project_directory/
+        utils/
+                __init__.py
+
+                print_utils.py
+                        def print_with_indent(...)
+                        def print_with_colors(...)
+                        ...
+
+                conversions.py
+                        def convert_farenheit_to_celsius(degrees: float)
+                        def convert_celsius_to_farenheit(degrees: float)
+                        def convert_feet_to_meters(feet: float)
+                        def convert_meters_to_feet(meters: float)
+                        ...
+
+        program.py
+                # importing a specific function from a module within a package
+                #      +-----------------  package name
+                #      |
+                #      |       +------------- module name
+                #      |       |
+                #      v       v
+                from utils.print_utils import print_with_indent
+
+                # importing a whole module
+                # functions will be accessible via   `conversions.convert_feet_to_meters(...)`
+                #
+                #
+                from utils import conversions
+
+                ...
+
+                print_with_indent("Program has started", indent=0)
+                print_with_indent("Loading data ...", indent=4)
+
+                ...
+
+                print(conversions.convert_feet_to_meters(34.343))

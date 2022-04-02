@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="JOSM GPX export" xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="53.6081717" minlon="9.7941006" maxlat="53.6101307" maxlon="9.7986616"/>
+  </metadata>
+  <trk>
+    <name>Schenefeld Gehen</name>
+    <type>walking</type>
+    <trkseg>
+      <extensions>
+        <ns3:TrackPointExtension>
+          <ns3:atemp>30.0</ns3:atemp>
+        </ns3:TrackPointExtension>
+        <ns3:TrackPointExtension>
+          <ns3:hr>71</ns3:hr>
+        </ns3:TrackPointExtension>
+      </extensions>
+      <trkpt lat="53.60817172564566" lon="9.798661563545465">
+        <ele>33</ele>
+        <time>2020-05-10T10:53:10Z</time>
+      </trkpt>
+      <trkpt lat="53.6082093603909" lon="9.798465427011251">
+        <ele>22.6000003814697265625</ele>
+        <time>2020-05-10T10:53:25Z</time>
+      </trkpt>
+      <trkpt lat="53.60855050384998" lon="9.79780183173716">
+        <ele>22.200000762939453125</ele>
+        <time>2020-05-10T10:54:11Z</time>
+      </trkpt>
+      <trkpt lat="53.60903271473944" lon="9.797325823456049">
+        <ele>22</ele>
+        <time>2020-05-10T10:54:50Z</time>
+      </trkpt>
+      <trkpt lat="53.60919733531773" lon="9.797037150710821">
+        <ele>21.6000003814697265625</ele>
+        <time>2020-05-10T10:55:15Z</time>
+      </trkpt>
+      <trkpt lat="53.60972112044692" lon="9.796396940946579">
+        <ele>22</ele>
+        <time>2020-05-10T10:56:17Z</time>
+      </trkpt>
+      <trkpt lat="53.609994538128376" lon="9.796185716986656">
+        <ele>21.3999996185302734375</ele>
+        <time>2020-05-10T10:56:55Z</time>
+      </trkpt>
+      <trkpt lat="53.610118590295315" lon="9.795977845788002">
+        <ele>21.6000003814697265625</ele>
+        <time>2020-05-10T10:57:15Z</time>
+      </trkpt>
+      <trkpt lat="53.61013066023588" lon="9.79586879722774">
+        <ele>21.3999996185302734375</ele>
+        <time>2020-05-10T10:57:33Z</time>
+      </trkpt>
+      <trkpt lat="53.609987581148744" lon="9.795671487227082">
+        <ele>22</ele>
+        <time>2020-05-10T10:57:57Z</time>
+      </trkpt>
+      <trkpt lat="53.609853805974126" lon="9.795183492824435">
+        <ele>22.200000762939453125</ele>
+        <time>2020-05-10T10:58:35Z</time>
+      </trkpt>
+      <trkpt lat="53.60973721732063" lon="9.794860789552331">
+        <ele>22.3999996185302734375</ele>
+        <time>2020-05-10T10:59:05Z</time>
+      </trkpt>
+      <trkpt lat="53.609648114070296" lon="9.79458661749959">
+        <ele>22.3999996185302734375</ele>
+        <time>2020-05-10T10:59:16Z</time>
+      </trkpt>
+      <trkpt lat="53.609601803501754" lon="9.79441470466554">
+        <ele>22.799999237060546875</ele>
+        <time>2020-05-10T10:59:28Z</time>
+      </trkpt>
+      <trkpt lat="53.60955448821187" lon="9.794234577566385">
+        <ele>22.799999237060546875</ele>
+        <time>2020-05-10T10:59:40Z</time>
+      </trkpt>
+      <trkpt lat="53.60949497669935" lon="9.794127540662885">
+        <ele>23</ele>
+        <time>2020-05-10T10:59:49Z</time>
+      </trkpt>
+      <trkpt lat="53.6090434435755" lon="9.794168192893267">
+        <ele>23</ele>
+        <time>2020-05-10T11:00:46Z</time>
+      </trkpt>
+      <trkpt lat="53.60872224904597" lon="9.794100634753704">
+        <ele>24</ele>
+        <time>2020-05-10T11:01:26Z</time>
+      </trkpt>
+      <trkpt lat="53.60842226073146" lon="9.794194009155035">
+        <ele>23.3999996185302734375</ele>
+        <time>2020-05-10T11:02:00Z</time>
+      </trkpt>
+      <trkpt lat="53.60822746530175" lon="9.794126451015472">
+        <ele>23.6000003814697265625</ele>
+        <time>2020-05-10T11:02:25Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

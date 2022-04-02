@@ -1,0 +1,7 @@
+pip install django
+django-admin startproject mysite
+python manage.py runserver
+python manage.py startapp polls
+TIME_ZONE = 'EET'
+
+C:\Users\Kircho\AppData\Local\Programs\Python\Python37\python manage.py runserver

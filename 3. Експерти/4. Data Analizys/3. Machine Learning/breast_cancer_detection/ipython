@@ -1,0 +1,8 @@
+Install IPython
+pip install ipython
+
+Start IPython
+ipython
+
+Start Jupyter notebook
+jupyter notebook

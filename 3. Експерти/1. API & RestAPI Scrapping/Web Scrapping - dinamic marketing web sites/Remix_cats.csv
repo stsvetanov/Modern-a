@@ -1,0 +1,337 @@
+,main_cat,cat,sub-cat,full_sub_cat_link
+0,All,womens-clothes,sweatpants,https://remixshop.com/bg/womens-clothes/sweatpants
+1,All,womens-clothes,swimwear,https://remixshop.com/bg/womens-clothes/swimwear
+2,All,womens-clothes,underwear,https://remixshop.com/bg/womens-clothes/underwear
+3,All,womens-clothes,tops,https://remixshop.com/bg/womens-clothes/tops
+4,All,womens-clothes,boleros-and-ponchos,https://remixshop.com/bg/womens-clothes/boleros-and-ponchos
+5,All,womens-clothes,jumpsuits,https://remixshop.com/bg/womens-clothes/jumpsuits
+6,All,womens-clothes,jeans,https://remixshop.com/bg/womens-clothes/jeans
+7,All,womens-clothes,vests,https://remixshop.com/bg/womens-clothes/vests
+8,All,womens-clothes,cardigans,https://remixshop.com/bg/womens-clothes/cardigans
+9,All,womens-clothes,leggings,https://remixshop.com/bg/womens-clothes/leggings
+10,All,womens-clothes,leather-jackets,https://remixshop.com/bg/womens-clothes/leather-jackets
+11,All,womens-clothes,suits,https://remixshop.com/bg/womens-clothes/suits
+12,All,womens-clothes,shorts,https://remixshop.com/bg/womens-clothes/shorts
+13,All,womens-clothes,coats,https://remixshop.com/bg/womens-clothes/coats
+14,All,womens-clothes,trousers,https://remixshop.com/bg/womens-clothes/trousers
+15,All,womens-clothes,skirts,https://remixshop.com/bg/womens-clothes/skirts
+16,All,womens-clothes,sweaters,https://remixshop.com/bg/womens-clothes/sweaters
+17,All,womens-clothes,shirts,https://remixshop.com/bg/womens-clothes/shirts
+18,All,womens-clothes,dresses,https://remixshop.com/bg/womens-clothes/dresses
+19,All,womens-clothes,blazers,https://remixshop.com/bg/womens-clothes/blazers
+20,All,womens-clothes,sports-clothing,https://remixshop.com/bg/womens-clothes/sports-clothing
+21,All,womens-clothes,sweatshirts,https://remixshop.com/bg/womens-clothes/sweatshirts
+22,All,womens-clothes,t-shirts,https://remixshop.com/bg/womens-clothes/t-shirts
+23,All,womens-clothes,tunics,https://remixshop.com/bg/womens-clothes/tunics
+24,All,womens-clothes,socks-and-tights,https://remixshop.com/bg/womens-clothes/socks-and-tights
+25,All,womens-clothes,jackets,https://remixshop.com/bg/womens-clothes/jackets
+26,All,mens-clothes,sweatpants,https://remixshop.com/bg/mens-clothes/sweatpants
+27,All,mens-clothes,swimwear,https://remixshop.com/bg/mens-clothes/swimwear
+28,All,mens-clothes,underwear,https://remixshop.com/bg/mens-clothes/underwear
+29,All,mens-clothes,tops,https://remixshop.com/bg/mens-clothes/tops
+30,All,mens-clothes,jumpsuits,https://remixshop.com/bg/mens-clothes/jumpsuits
+31,All,mens-clothes,jeans,https://remixshop.com/bg/mens-clothes/jeans
+32,All,mens-clothes,vests,https://remixshop.com/bg/mens-clothes/vests
+33,All,mens-clothes,cardigans,https://remixshop.com/bg/mens-clothes/cardigans
+34,All,mens-clothes,leggings,https://remixshop.com/bg/mens-clothes/leggings
+35,All,mens-clothes,leather-jackets,https://remixshop.com/bg/mens-clothes/leather-jackets
+36,All,mens-clothes,suits,https://remixshop.com/bg/mens-clothes/suits
+37,All,mens-clothes,shorts,https://remixshop.com/bg/mens-clothes/shorts
+38,All,mens-clothes,coats,https://remixshop.com/bg/mens-clothes/coats
+39,All,mens-clothes,trousers,https://remixshop.com/bg/mens-clothes/trousers
+40,All,mens-clothes,sweaters,https://remixshop.com/bg/mens-clothes/sweaters
+41,All,mens-clothes,shirts,https://remixshop.com/bg/mens-clothes/shirts
+42,All,mens-clothes,blazers,https://remixshop.com/bg/mens-clothes/blazers
+43,All,mens-clothes,sports-clothing,https://remixshop.com/bg/mens-clothes/sports-clothing
+44,All,mens-clothes,sweatshirts,https://remixshop.com/bg/mens-clothes/sweatshirts
+45,All,mens-clothes,t-shirts,https://remixshop.com/bg/mens-clothes/t-shirts
+46,All,mens-clothes,socks,https://remixshop.com/bg/mens-clothes/socks
+47,All,mens-clothes,jackets,https://remixshop.com/bg/mens-clothes/jackets
+48,All,bags,womens-bags,https://remixshop.com/bg/bags/womens-bags
+49,All,bags,bags-other,https://remixshop.com/bg/bags/bags-other
+50,All,bags,suitcases,https://remixshop.com/bg/bags/suitcases
+51,All,bags,mens-bags,https://remixshop.com/bg/bags/mens-bags
+52,All,bags,wallets,https://remixshop.com/bg/bags/wallets
+53,All,bags,backpacks,https://remixshop.com/bg/bags/backpacks
+54,All,bags,holdalls,https://remixshop.com/bg/bags/holdalls
+55,All,accessories,belts,https://remixshop.com/bg/accessories/belts
+56,All,accessories,glasses,https://remixshop.com/bg/accessories/glasses
+57,All,accessories,gloves,https://remixshop.com/bg/accessories/gloves
+58,All,accessories,watches,https://remixshop.com/bg/accessories/watches
+59,All,accessories,scarfs,https://remixshop.com/bg/accessories/scarfs
+60,All,accessories,hats,https://remixshop.com/bg/accessories/hats
+61,All,shoes,womens-shoes,https://remixshop.com/bg/shoes/womens-shoes
+62,All,shoes,kids-shoes,https://remixshop.com/bg/shoes/kids-shoes
+63,All,shoes,mens-shoes,https://remixshop.com/bg/shoes/mens-shoes
+64,All,child-clothes,swimwear,https://remixshop.com/bg/child-clothes/swimwear
+65,All,child-clothes,underwear,https://remixshop.com/bg/child-clothes/underwear
+66,All,child-clothes,tops,https://remixshop.com/bg/child-clothes/tops
+67,All,child-clothes,outerwear,https://remixshop.com/bg/child-clothes/outerwear
+68,All,child-clothes,jumpsuits,https://remixshop.com/bg/child-clothes/jumpsuits
+69,All,child-clothes,jeans,https://remixshop.com/bg/child-clothes/jeans
+70,All,child-clothes,vests,https://remixshop.com/bg/child-clothes/vests
+71,All,child-clothes,cardigans,https://remixshop.com/bg/child-clothes/cardigans
+72,All,child-clothes,sets,https://remixshop.com/bg/child-clothes/sets
+73,All,child-clothes,shorts,https://remixshop.com/bg/child-clothes/shorts
+74,All,child-clothes,trousers,https://remixshop.com/bg/child-clothes/trousers
+75,All,child-clothes,skirts-and-dresses,https://remixshop.com/bg/child-clothes/skirts-and-dresses
+76,All,child-clothes,sweaters,https://remixshop.com/bg/child-clothes/sweaters
+77,All,child-clothes,shirts,https://remixshop.com/bg/child-clothes/shirts
+78,All,child-clothes,sports-clothing,https://remixshop.com/bg/child-clothes/sports-clothing
+79,All,child-clothes,sweatshirts,https://remixshop.com/bg/child-clothes/sweatshirts
+80,All,child-clothes,t-shirts,https://remixshop.com/bg/child-clothes/t-shirts
+81,All,child-clothes,top,https://remixshop.com/bg/child-clothes/top
+82,All,child-clothes,tunics,https://remixshop.com/bg/child-clothes/tunics
+83,All,child-clothes,socks-and-tights,https://remixshop.com/bg/child-clothes/socks-and-tights
+0,Outlet,womens-clothes,sweatpants,https://remixshop.com/bg/outlet/womens-clothes/sweatpants
+1,Outlet,womens-clothes,swimwear,https://remixshop.com/bg/outlet/womens-clothes/swimwear
+2,Outlet,womens-clothes,underwear,https://remixshop.com/bg/outlet/womens-clothes/underwear
+3,Outlet,womens-clothes,tops,https://remixshop.com/bg/outlet/womens-clothes/tops
+4,Outlet,womens-clothes,boleros-and-ponchos,https://remixshop.com/bg/outlet/womens-clothes/boleros-and-ponchos
+5,Outlet,womens-clothes,jumpsuits,https://remixshop.com/bg/outlet/womens-clothes/jumpsuits
+6,Outlet,womens-clothes,jeans,https://remixshop.com/bg/outlet/womens-clothes/jeans
+7,Outlet,womens-clothes,vests,https://remixshop.com/bg/outlet/womens-clothes/vests
+8,Outlet,womens-clothes,cardigans,https://remixshop.com/bg/outlet/womens-clothes/cardigans
+9,Outlet,womens-clothes,leggings,https://remixshop.com/bg/outlet/womens-clothes/leggings
+10,Outlet,womens-clothes,leather-jackets,https://remixshop.com/bg/outlet/womens-clothes/leather-jackets
+11,Outlet,womens-clothes,suits,https://remixshop.com/bg/outlet/womens-clothes/suits
+12,Outlet,womens-clothes,shorts,https://remixshop.com/bg/outlet/womens-clothes/shorts
+13,Outlet,womens-clothes,coats,https://remixshop.com/bg/outlet/womens-clothes/coats
+14,Outlet,womens-clothes,trousers,https://remixshop.com/bg/outlet/womens-clothes/trousers
+15,Outlet,womens-clothes,skirts,https://remixshop.com/bg/outlet/womens-clothes/skirts
+16,Outlet,womens-clothes,sweaters,https://remixshop.com/bg/outlet/womens-clothes/sweaters
+17,Outlet,womens-clothes,shirts,https://remixshop.com/bg/outlet/womens-clothes/shirts
+18,Outlet,womens-clothes,dresses,https://remixshop.com/bg/outlet/womens-clothes/dresses
+19,Outlet,womens-clothes,blazers,https://remixshop.com/bg/outlet/womens-clothes/blazers
+20,Outlet,womens-clothes,sports-clothing,https://remixshop.com/bg/outlet/womens-clothes/sports-clothing
+21,Outlet,womens-clothes,sweatshirts,https://remixshop.com/bg/outlet/womens-clothes/sweatshirts
+22,Outlet,womens-clothes,t-shirts,https://remixshop.com/bg/outlet/womens-clothes/t-shirts
+23,Outlet,womens-clothes,tunics,https://remixshop.com/bg/outlet/womens-clothes/tunics
+24,Outlet,womens-clothes,socks-and-tights,https://remixshop.com/bg/outlet/womens-clothes/socks-and-tights
+25,Outlet,womens-clothes,jackets,https://remixshop.com/bg/outlet/womens-clothes/jackets
+26,Outlet,mens-clothes,sweatpants,https://remixshop.com/bg/outlet/mens-clothes/sweatpants
+27,Outlet,mens-clothes,swimwear,https://remixshop.com/bg/outlet/mens-clothes/swimwear
+28,Outlet,mens-clothes,underwear,https://remixshop.com/bg/outlet/mens-clothes/underwear
+29,Outlet,mens-clothes,tops,https://remixshop.com/bg/outlet/mens-clothes/tops
+30,Outlet,mens-clothes,jumpsuits,https://remixshop.com/bg/outlet/mens-clothes/jumpsuits
+31,Outlet,mens-clothes,jeans,https://remixshop.com/bg/outlet/mens-clothes/jeans
+32,Outlet,mens-clothes,vests,https://remixshop.com/bg/outlet/mens-clothes/vests
+33,Outlet,mens-clothes,cardigans,https://remixshop.com/bg/outlet/mens-clothes/cardigans
+34,Outlet,mens-clothes,leggings,https://remixshop.com/bg/outlet/mens-clothes/leggings
+35,Outlet,mens-clothes,leather-jackets,https://remixshop.com/bg/outlet/mens-clothes/leather-jackets
+36,Outlet,mens-clothes,suits,https://remixshop.com/bg/outlet/mens-clothes/suits
+37,Outlet,mens-clothes,shorts,https://remixshop.com/bg/outlet/mens-clothes/shorts
+38,Outlet,mens-clothes,coats,https://remixshop.com/bg/outlet/mens-clothes/coats
+39,Outlet,mens-clothes,trousers,https://remixshop.com/bg/outlet/mens-clothes/trousers
+40,Outlet,mens-clothes,sweaters,https://remixshop.com/bg/outlet/mens-clothes/sweaters
+41,Outlet,mens-clothes,shirts,https://remixshop.com/bg/outlet/mens-clothes/shirts
+42,Outlet,mens-clothes,blazers,https://remixshop.com/bg/outlet/mens-clothes/blazers
+43,Outlet,mens-clothes,sports-clothing,https://remixshop.com/bg/outlet/mens-clothes/sports-clothing
+44,Outlet,mens-clothes,sweatshirts,https://remixshop.com/bg/outlet/mens-clothes/sweatshirts
+45,Outlet,mens-clothes,t-shirts,https://remixshop.com/bg/outlet/mens-clothes/t-shirts
+46,Outlet,mens-clothes,socks,https://remixshop.com/bg/outlet/mens-clothes/socks
+47,Outlet,mens-clothes,jackets,https://remixshop.com/bg/outlet/mens-clothes/jackets
+48,Outlet,bags,womens-bags,https://remixshop.com/bg/outlet/bags/womens-bags
+49,Outlet,bags,bags-other,https://remixshop.com/bg/outlet/bags/bags-other
+50,Outlet,bags,suitcases,https://remixshop.com/bg/outlet/bags/suitcases
+51,Outlet,bags,mens-bags,https://remixshop.com/bg/outlet/bags/mens-bags
+52,Outlet,bags,wallets,https://remixshop.com/bg/outlet/bags/wallets
+53,Outlet,bags,backpacks,https://remixshop.com/bg/outlet/bags/backpacks
+54,Outlet,bags,holdalls,https://remixshop.com/bg/outlet/bags/holdalls
+55,Outlet,accessories,belts,https://remixshop.com/bg/outlet/accessories/belts
+56,Outlet,accessories,glasses,https://remixshop.com/bg/outlet/accessories/glasses
+57,Outlet,accessories,gloves,https://remixshop.com/bg/outlet/accessories/gloves
+58,Outlet,accessories,watches,https://remixshop.com/bg/outlet/accessories/watches
+59,Outlet,accessories,scarfs,https://remixshop.com/bg/outlet/accessories/scarfs
+60,Outlet,accessories,hats,https://remixshop.com/bg/outlet/accessories/hats
+61,Outlet,shoes,womens-shoes,https://remixshop.com/bg/outlet/shoes/womens-shoes
+62,Outlet,shoes,kids-shoes,https://remixshop.com/bg/outlet/shoes/kids-shoes
+63,Outlet,shoes,mens-shoes,https://remixshop.com/bg/outlet/shoes/mens-shoes
+64,Outlet,child-clothes,swimwear,https://remixshop.com/bg/outlet/child-clothes/swimwear
+65,Outlet,child-clothes,underwear,https://remixshop.com/bg/outlet/child-clothes/underwear
+66,Outlet,child-clothes,tops,https://remixshop.com/bg/outlet/child-clothes/tops
+67,Outlet,child-clothes,outerwear,https://remixshop.com/bg/outlet/child-clothes/outerwear
+68,Outlet,child-clothes,jumpsuits,https://remixshop.com/bg/outlet/child-clothes/jumpsuits
+69,Outlet,child-clothes,jeans,https://remixshop.com/bg/outlet/child-clothes/jeans
+70,Outlet,child-clothes,vests,https://remixshop.com/bg/outlet/child-clothes/vests
+71,Outlet,child-clothes,cardigans,https://remixshop.com/bg/outlet/child-clothes/cardigans
+72,Outlet,child-clothes,sets,https://remixshop.com/bg/outlet/child-clothes/sets
+73,Outlet,child-clothes,shorts,https://remixshop.com/bg/outlet/child-clothes/shorts
+74,Outlet,child-clothes,trousers,https://remixshop.com/bg/outlet/child-clothes/trousers
+75,Outlet,child-clothes,skirts-and-dresses,https://remixshop.com/bg/outlet/child-clothes/skirts-and-dresses
+76,Outlet,child-clothes,sweaters,https://remixshop.com/bg/outlet/child-clothes/sweaters
+77,Outlet,child-clothes,shirts,https://remixshop.com/bg/outlet/child-clothes/shirts
+78,Outlet,child-clothes,sports-clothing,https://remixshop.com/bg/outlet/child-clothes/sports-clothing
+79,Outlet,child-clothes,sweatshirts,https://remixshop.com/bg/outlet/child-clothes/sweatshirts
+80,Outlet,child-clothes,t-shirts,https://remixshop.com/bg/outlet/child-clothes/t-shirts
+81,Outlet,child-clothes,top,https://remixshop.com/bg/outlet/child-clothes/top
+82,Outlet,child-clothes,tunics,https://remixshop.com/bg/outlet/child-clothes/tunics
+83,Outlet,child-clothes,socks-and-tights,https://remixshop.com/bg/outlet/child-clothes/socks-and-tights
+0,Second Hand,womens-clothes,sweatpants,https://remixshop.com/bg/secondhand/womens-clothes/sweatpants
+1,Second Hand,womens-clothes,swimwear,https://remixshop.com/bg/secondhand/womens-clothes/swimwear
+2,Second Hand,womens-clothes,underwear,https://remixshop.com/bg/secondhand/womens-clothes/underwear
+3,Second Hand,womens-clothes,tops,https://remixshop.com/bg/secondhand/womens-clothes/tops
+4,Second Hand,womens-clothes,boleros-and-ponchos,https://remixshop.com/bg/secondhand/womens-clothes/boleros-and-ponchos
+5,Second Hand,womens-clothes,jumpsuits,https://remixshop.com/bg/secondhand/womens-clothes/jumpsuits
+6,Second Hand,womens-clothes,jeans,https://remixshop.com/bg/secondhand/womens-clothes/jeans
+7,Second Hand,womens-clothes,vests,https://remixshop.com/bg/secondhand/womens-clothes/vests
+8,Second Hand,womens-clothes,cardigans,https://remixshop.com/bg/secondhand/womens-clothes/cardigans
+9,Second Hand,womens-clothes,leggings,https://remixshop.com/bg/secondhand/womens-clothes/leggings
+10,Second Hand,womens-clothes,leather-jackets,https://remixshop.com/bg/secondhand/womens-clothes/leather-jackets
+11,Second Hand,womens-clothes,suits,https://remixshop.com/bg/secondhand/womens-clothes/suits
+12,Second Hand,womens-clothes,shorts,https://remixshop.com/bg/secondhand/womens-clothes/shorts
+13,Second Hand,womens-clothes,coats,https://remixshop.com/bg/secondhand/womens-clothes/coats
+14,Second Hand,womens-clothes,trousers,https://remixshop.com/bg/secondhand/womens-clothes/trousers
+15,Second Hand,womens-clothes,skirts,https://remixshop.com/bg/secondhand/womens-clothes/skirts
+16,Second Hand,womens-clothes,sweaters,https://remixshop.com/bg/secondhand/womens-clothes/sweaters
+17,Second Hand,womens-clothes,shirts,https://remixshop.com/bg/secondhand/womens-clothes/shirts
+18,Second Hand,womens-clothes,dresses,https://remixshop.com/bg/secondhand/womens-clothes/dresses
+19,Second Hand,womens-clothes,blazers,https://remixshop.com/bg/secondhand/womens-clothes/blazers
+20,Second Hand,womens-clothes,sports-clothing,https://remixshop.com/bg/secondhand/womens-clothes/sports-clothing
+21,Second Hand,womens-clothes,sweatshirts,https://remixshop.com/bg/secondhand/womens-clothes/sweatshirts
+22,Second Hand,womens-clothes,t-shirts,https://remixshop.com/bg/secondhand/womens-clothes/t-shirts
+23,Second Hand,womens-clothes,tunics,https://remixshop.com/bg/secondhand/womens-clothes/tunics
+24,Second Hand,womens-clothes,socks-and-tights,https://remixshop.com/bg/secondhand/womens-clothes/socks-and-tights
+25,Second Hand,womens-clothes,jackets,https://remixshop.com/bg/secondhand/womens-clothes/jackets
+26,Second Hand,mens-clothes,sweatpants,https://remixshop.com/bg/secondhand/mens-clothes/sweatpants
+27,Second Hand,mens-clothes,swimwear,https://remixshop.com/bg/secondhand/mens-clothes/swimwear
+28,Second Hand,mens-clothes,underwear,https://remixshop.com/bg/secondhand/mens-clothes/underwear
+29,Second Hand,mens-clothes,tops,https://remixshop.com/bg/secondhand/mens-clothes/tops
+30,Second Hand,mens-clothes,jumpsuits,https://remixshop.com/bg/secondhand/mens-clothes/jumpsuits
+31,Second Hand,mens-clothes,jeans,https://remixshop.com/bg/secondhand/mens-clothes/jeans
+32,Second Hand,mens-clothes,vests,https://remixshop.com/bg/secondhand/mens-clothes/vests
+33,Second Hand,mens-clothes,cardigans,https://remixshop.com/bg/secondhand/mens-clothes/cardigans
+34,Second Hand,mens-clothes,leggings,https://remixshop.com/bg/secondhand/mens-clothes/leggings
+35,Second Hand,mens-clothes,leather-jackets,https://remixshop.com/bg/secondhand/mens-clothes/leather-jackets
+36,Second Hand,mens-clothes,suits,https://remixshop.com/bg/secondhand/mens-clothes/suits
+37,Second Hand,mens-clothes,shorts,https://remixshop.com/bg/secondhand/mens-clothes/shorts
+38,Second Hand,mens-clothes,coats,https://remixshop.com/bg/secondhand/mens-clothes/coats
+39,Second Hand,mens-clothes,trousers,https://remixshop.com/bg/secondhand/mens-clothes/trousers
+40,Second Hand,mens-clothes,sweaters,https://remixshop.com/bg/secondhand/mens-clothes/sweaters
+41,Second Hand,mens-clothes,shirts,https://remixshop.com/bg/secondhand/mens-clothes/shirts
+42,Second Hand,mens-clothes,blazers,https://remixshop.com/bg/secondhand/mens-clothes/blazers
+43,Second Hand,mens-clothes,sports-clothing,https://remixshop.com/bg/secondhand/mens-clothes/sports-clothing
+44,Second Hand,mens-clothes,sweatshirts,https://remixshop.com/bg/secondhand/mens-clothes/sweatshirts
+45,Second Hand,mens-clothes,t-shirts,https://remixshop.com/bg/secondhand/mens-clothes/t-shirts
+46,Second Hand,mens-clothes,socks,https://remixshop.com/bg/secondhand/mens-clothes/socks
+47,Second Hand,mens-clothes,jackets,https://remixshop.com/bg/secondhand/mens-clothes/jackets
+48,Second Hand,bags,womens-bags,https://remixshop.com/bg/secondhand/bags/womens-bags
+49,Second Hand,bags,bags-other,https://remixshop.com/bg/secondhand/bags/bags-other
+50,Second Hand,bags,suitcases,https://remixshop.com/bg/secondhand/bags/suitcases
+51,Second Hand,bags,mens-bags,https://remixshop.com/bg/secondhand/bags/mens-bags
+52,Second Hand,bags,wallets,https://remixshop.com/bg/secondhand/bags/wallets
+53,Second Hand,bags,backpacks,https://remixshop.com/bg/secondhand/bags/backpacks
+54,Second Hand,bags,holdalls,https://remixshop.com/bg/secondhand/bags/holdalls
+55,Second Hand,accessories,belts,https://remixshop.com/bg/secondhand/accessories/belts
+56,Second Hand,accessories,glasses,https://remixshop.com/bg/secondhand/accessories/glasses
+57,Second Hand,accessories,gloves,https://remixshop.com/bg/secondhand/accessories/gloves
+58,Second Hand,accessories,watches,https://remixshop.com/bg/secondhand/accessories/watches
+59,Second Hand,accessories,scarfs,https://remixshop.com/bg/secondhand/accessories/scarfs
+60,Second Hand,accessories,hats,https://remixshop.com/bg/secondhand/accessories/hats
+61,Second Hand,shoes,womens-shoes,https://remixshop.com/bg/secondhand/shoes/womens-shoes
+62,Second Hand,shoes,kids-shoes,https://remixshop.com/bg/secondhand/shoes/kids-shoes
+63,Second Hand,shoes,mens-shoes,https://remixshop.com/bg/secondhand/shoes/mens-shoes
+64,Second Hand,child-clothes,swimwear,https://remixshop.com/bg/secondhand/child-clothes/swimwear
+65,Second Hand,child-clothes,underwear,https://remixshop.com/bg/secondhand/child-clothes/underwear
+66,Second Hand,child-clothes,tops,https://remixshop.com/bg/secondhand/child-clothes/tops
+67,Second Hand,child-clothes,outerwear,https://remixshop.com/bg/secondhand/child-clothes/outerwear
+68,Second Hand,child-clothes,jumpsuits,https://remixshop.com/bg/secondhand/child-clothes/jumpsuits
+69,Second Hand,child-clothes,jeans,https://remixshop.com/bg/secondhand/child-clothes/jeans
+70,Second Hand,child-clothes,vests,https://remixshop.com/bg/secondhand/child-clothes/vests
+71,Second Hand,child-clothes,cardigans,https://remixshop.com/bg/secondhand/child-clothes/cardigans
+72,Second Hand,child-clothes,sets,https://remixshop.com/bg/secondhand/child-clothes/sets
+73,Second Hand,child-clothes,shorts,https://remixshop.com/bg/secondhand/child-clothes/shorts
+74,Second Hand,child-clothes,trousers,https://remixshop.com/bg/secondhand/child-clothes/trousers
+75,Second Hand,child-clothes,skirts-and-dresses,https://remixshop.com/bg/secondhand/child-clothes/skirts-and-dresses
+76,Second Hand,child-clothes,sweaters,https://remixshop.com/bg/secondhand/child-clothes/sweaters
+77,Second Hand,child-clothes,shirts,https://remixshop.com/bg/secondhand/child-clothes/shirts
+78,Second Hand,child-clothes,sports-clothing,https://remixshop.com/bg/secondhand/child-clothes/sports-clothing
+79,Second Hand,child-clothes,sweatshirts,https://remixshop.com/bg/secondhand/child-clothes/sweatshirts
+80,Second Hand,child-clothes,t-shirts,https://remixshop.com/bg/secondhand/child-clothes/t-shirts
+81,Second Hand,child-clothes,top,https://remixshop.com/bg/secondhand/child-clothes/top
+82,Second Hand,child-clothes,tunics,https://remixshop.com/bg/secondhand/child-clothes/tunics
+83,Second Hand,child-clothes,socks-and-tights,https://remixshop.com/bg/secondhand/child-clothes/socks-and-tights
+0,Next season,womens-clothes,sweatpants,https://remixshop.com/bg/pre/womens-clothes/sweatpants
+1,Next season,womens-clothes,swimwear,https://remixshop.com/bg/pre/womens-clothes/swimwear
+2,Next season,womens-clothes,underwear,https://remixshop.com/bg/pre/womens-clothes/underwear
+3,Next season,womens-clothes,tops,https://remixshop.com/bg/pre/womens-clothes/tops
+4,Next season,womens-clothes,boleros-and-ponchos,https://remixshop.com/bg/pre/womens-clothes/boleros-and-ponchos
+5,Next season,womens-clothes,jumpsuits,https://remixshop.com/bg/pre/womens-clothes/jumpsuits
+6,Next season,womens-clothes,jeans,https://remixshop.com/bg/pre/womens-clothes/jeans
+7,Next season,womens-clothes,vests,https://remixshop.com/bg/pre/womens-clothes/vests
+8,Next season,womens-clothes,cardigans,https://remixshop.com/bg/pre/womens-clothes/cardigans
+9,Next season,womens-clothes,leggings,https://remixshop.com/bg/pre/womens-clothes/leggings
+10,Next season,womens-clothes,leather-jackets,https://remixshop.com/bg/pre/womens-clothes/leather-jackets
+11,Next season,womens-clothes,suits,https://remixshop.com/bg/pre/womens-clothes/suits
+12,Next season,womens-clothes,shorts,https://remixshop.com/bg/pre/womens-clothes/shorts
+13,Next season,womens-clothes,coats,https://remixshop.com/bg/pre/womens-clothes/coats
+14,Next season,womens-clothes,trousers,https://remixshop.com/bg/pre/womens-clothes/trousers
+15,Next season,womens-clothes,skirts,https://remixshop.com/bg/pre/womens-clothes/skirts
+16,Next season,womens-clothes,sweaters,https://remixshop.com/bg/pre/womens-clothes/sweaters
+17,Next season,womens-clothes,shirts,https://remixshop.com/bg/pre/womens-clothes/shirts
+18,Next season,womens-clothes,dresses,https://remixshop.com/bg/pre/womens-clothes/dresses
+19,Next season,womens-clothes,blazers,https://remixshop.com/bg/pre/womens-clothes/blazers
+20,Next season,womens-clothes,sports-clothing,https://remixshop.com/bg/pre/womens-clothes/sports-clothing
+21,Next season,womens-clothes,sweatshirts,https://remixshop.com/bg/pre/womens-clothes/sweatshirts
+22,Next season,womens-clothes,t-shirts,https://remixshop.com/bg/pre/womens-clothes/t-shirts
+23,Next season,womens-clothes,tunics,https://remixshop.com/bg/pre/womens-clothes/tunics
+24,Next season,womens-clothes,socks-and-tights,https://remixshop.com/bg/pre/womens-clothes/socks-and-tights
+25,Next season,womens-clothes,jackets,https://remixshop.com/bg/pre/womens-clothes/jackets
+26,Next season,mens-clothes,sweatpants,https://remixshop.com/bg/pre/mens-clothes/sweatpants
+27,Next season,mens-clothes,swimwear,https://remixshop.com/bg/pre/mens-clothes/swimwear
+28,Next season,mens-clothes,underwear,https://remixshop.com/bg/pre/mens-clothes/underwear
+29,Next season,mens-clothes,tops,https://remixshop.com/bg/pre/mens-clothes/tops
+30,Next season,mens-clothes,jumpsuits,https://remixshop.com/bg/pre/mens-clothes/jumpsuits
+31,Next season,mens-clothes,jeans,https://remixshop.com/bg/pre/mens-clothes/jeans
+32,Next season,mens-clothes,vests,https://remixshop.com/bg/pre/mens-clothes/vests
+33,Next season,mens-clothes,cardigans,https://remixshop.com/bg/pre/mens-clothes/cardigans
+34,Next season,mens-clothes,leggings,https://remixshop.com/bg/pre/mens-clothes/leggings
+35,Next season,mens-clothes,leather-jackets,https://remixshop.com/bg/pre/mens-clothes/leather-jackets
+36,Next season,mens-clothes,suits,https://remixshop.com/bg/pre/mens-clothes/suits
+37,Next season,mens-clothes,shorts,https://remixshop.com/bg/pre/mens-clothes/shorts
+38,Next season,mens-clothes,coats,https://remixshop.com/bg/pre/mens-clothes/coats
+39,Next season,mens-clothes,trousers,https://remixshop.com/bg/pre/mens-clothes/trousers
+40,Next season,mens-clothes,sweaters,https://remixshop.com/bg/pre/mens-clothes/sweaters
+41,Next season,mens-clothes,shirts,https://remixshop.com/bg/pre/mens-clothes/shirts
+42,Next season,mens-clothes,blazers,https://remixshop.com/bg/pre/mens-clothes/blazers
+43,Next season,mens-clothes,sports-clothing,https://remixshop.com/bg/pre/mens-clothes/sports-clothing
+44,Next season,mens-clothes,sweatshirts,https://remixshop.com/bg/pre/mens-clothes/sweatshirts
+45,Next season,mens-clothes,t-shirts,https://remixshop.com/bg/pre/mens-clothes/t-shirts
+46,Next season,mens-clothes,socks,https://remixshop.com/bg/pre/mens-clothes/socks
+47,Next season,mens-clothes,jackets,https://remixshop.com/bg/pre/mens-clothes/jackets
+48,Next season,bags,womens-bags,https://remixshop.com/bg/pre/bags/womens-bags
+49,Next season,bags,bags-other,https://remixshop.com/bg/pre/bags/bags-other
+50,Next season,bags,suitcases,https://remixshop.com/bg/pre/bags/suitcases
+51,Next season,bags,mens-bags,https://remixshop.com/bg/pre/bags/mens-bags
+52,Next season,bags,wallets,https://remixshop.com/bg/pre/bags/wallets
+53,Next season,bags,backpacks,https://remixshop.com/bg/pre/bags/backpacks
+54,Next season,bags,holdalls,https://remixshop.com/bg/pre/bags/holdalls
+55,Next season,accessories,belts,https://remixshop.com/bg/pre/accessories/belts
+56,Next season,accessories,glasses,https://remixshop.com/bg/pre/accessories/glasses
+57,Next season,accessories,gloves,https://remixshop.com/bg/pre/accessories/gloves
+58,Next season,accessories,watches,https://remixshop.com/bg/pre/accessories/watches
+59,Next season,accessories,scarfs,https://remixshop.com/bg/pre/accessories/scarfs
+60,Next season,accessories,hats,https://remixshop.com/bg/pre/accessories/hats
+61,Next season,shoes,womens-shoes,https://remixshop.com/bg/pre/shoes/womens-shoes
+62,Next season,shoes,kids-shoes,https://remixshop.com/bg/pre/shoes/kids-shoes
+63,Next season,shoes,mens-shoes,https://remixshop.com/bg/pre/shoes/mens-shoes
+64,Next season,child-clothes,swimwear,https://remixshop.com/bg/pre/child-clothes/swimwear
+65,Next season,child-clothes,underwear,https://remixshop.com/bg/pre/child-clothes/underwear
+66,Next season,child-clothes,tops,https://remixshop.com/bg/pre/child-clothes/tops
+67,Next season,child-clothes,outerwear,https://remixshop.com/bg/pre/child-clothes/outerwear
+68,Next season,child-clothes,jumpsuits,https://remixshop.com/bg/pre/child-clothes/jumpsuits
+69,Next season,child-clothes,jeans,https://remixshop.com/bg/pre/child-clothes/jeans
+70,Next season,child-clothes,vests,https://remixshop.com/bg/pre/child-clothes/vests
+71,Next season,child-clothes,cardigans,https://remixshop.com/bg/pre/child-clothes/cardigans
+72,Next season,child-clothes,sets,https://remixshop.com/bg/pre/child-clothes/sets
+73,Next season,child-clothes,shorts,https://remixshop.com/bg/pre/child-clothes/shorts
+74,Next season,child-clothes,trousers,https://remixshop.com/bg/pre/child-clothes/trousers
+75,Next season,child-clothes,skirts-and-dresses,https://remixshop.com/bg/pre/child-clothes/skirts-and-dresses
+76,Next season,child-clothes,sweaters,https://remixshop.com/bg/pre/child-clothes/sweaters
+77,Next season,child-clothes,shirts,https://remixshop.com/bg/pre/child-clothes/shirts
+78,Next season,child-clothes,sports-clothing,https://remixshop.com/bg/pre/child-clothes/sports-clothing
+79,Next season,child-clothes,sweatshirts,https://remixshop.com/bg/pre/child-clothes/sweatshirts
+80,Next season,child-clothes,t-shirts,https://remixshop.com/bg/pre/child-clothes/t-shirts
+81,Next season,child-clothes,top,https://remixshop.com/bg/pre/child-clothes/top
+82,Next season,child-clothes,tunics,https://remixshop.com/bg/pre/child-clothes/tunics
+83,Next season,child-clothes,socks-and-tights,https://remixshop.com/bg/pre/child-clothes/socks-and-tights

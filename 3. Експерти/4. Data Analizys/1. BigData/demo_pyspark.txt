@@ -1,0 +1,16 @@
+myLines = sc.textFile('Hortonworks')
+myLines_filtered = myLines.filter(lambda x: len(x) > 0)
+myLines_filtered.count()
+
+
+wget http://en.wikipedia.org/wiki/Hortonworks
+su hdfs
+hadoop fs -chmod -R 777 /user/guest
+exit
+hadoop fs -put ~/Hortonworks /user/guest/Hortonworks
+
+export PYSPARK_PYTHON=python3
+.bin/pyspark
+myLines = sc.textFile('Hortonworks')
+myLines_filtered = myLines.filter( lambda x: len(x) > 0 )
+myLines_filtered.count()

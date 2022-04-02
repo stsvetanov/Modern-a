@@ -1,0 +1,25 @@
+----Retrieve data from DB
+--select * from catalog where category = "SHOES";
+
+select
+    id,
+    country
+from
+    sale
+where
+        country = "IT"
+order by
+    price
+limit
+    2
+;
+
+----Insert data to DB
+--insert into catalog (item_id, name, gender) values (5, "T-Shirt", "Men");
+
+
+---- Update data
+--update catalog set gender = "Kid" where id = 7;
+
+---- Delete data
+--delete from catalog where item_id = 15

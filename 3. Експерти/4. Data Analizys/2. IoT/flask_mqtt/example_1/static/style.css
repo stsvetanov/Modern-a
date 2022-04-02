@@ -1,0 +1,15 @@
+html {
+    font-size: 15px;
+}
+
+main {
+    padding: 2rem 3rem;
+}
+
+dt {
+    margin-bottom: 0.8rem;
+}
+
+#chart-wrapper {
+    margin-bottom: 1rem;
+}

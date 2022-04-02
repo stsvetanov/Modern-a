@@ -1,0 +1,26 @@
+# https://www.bogotobogo.com/python/Flask/Python_Flask_with_AJAX_JQuery.php
+
+from flask import Flask, render_template, request, json
+
+app = Flask(__name__)
+
+
+@app.route('/')
+def hello():
+    return "Hello World!"
+
+
+@app.route('/signUp')
+def signUp():
+    return render_template('signUp.html')
+
+
+@app.route('/signUpUser', methods=['POST'])
+def signUpUser():
+    user =  request.form['username'];
+    password = request.form['password'];
+    return json.dumps({'status':'OK','user':user,'pass':password});
+
+
+if __name__=="__main__":
+    app.run()
